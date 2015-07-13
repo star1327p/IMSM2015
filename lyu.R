@@ -47,3 +47,4 @@ library(lattice)
   draws <- ldply(means,y)
   bwplot(~value|factor(mean),draws)
   
+  # finish
