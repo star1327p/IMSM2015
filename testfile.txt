@@ -1,3 +1,5 @@
 This is some test text.
 Basically it's "hello world"!
 One more time.
+
+This is another critical change
